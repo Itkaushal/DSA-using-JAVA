@@ -1,5 +1,4 @@
-
-
+ // wrap to check array is palindromic or not ..........
 public class Palindromic {
 
     public static void main(String[] args) {
